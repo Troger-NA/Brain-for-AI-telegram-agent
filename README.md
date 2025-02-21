@@ -31,6 +31,9 @@ BOT_NAME=YourBotName
 ### 4️⃣ Run the Bot
 ```bash
 python bot/main.py
+
+pip install -r requirements.txt
+```
 ### 📌 Customization
 Change the bot’s personality in prompts.py
 Modify topic detection in handlers.py
