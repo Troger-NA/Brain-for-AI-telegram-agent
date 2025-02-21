@@ -15,7 +15,7 @@ This is a **modular AI chatbot** designed for **Telegram** using **Cohere AI**. 
 ```bash
 git clone https://github.com/your-username/telegram-ai-bot.git
 cd telegram-ai-bot
-
+```bash
 ### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
