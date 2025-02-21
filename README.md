@@ -15,11 +15,11 @@ This is a **modular AI chatbot** designed for **Telegram** using **Cohere AI**. 
 ```bash
 git clone https://github.com/your-username/telegram-ai-bot.git
 cd telegram-ai-bot
-```bash
+```
 ### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3️⃣ Configure API Keys
 1. **Create a `.env` file** (copy `.env.example` and rename it to `.env`).
 2. Add your API keys:
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 TELEGRAM_BOT_TOKEN=your-telegram-bot-token
 COHERE_API_KEY=your-cohere-api-key
 BOT_NAME=YourBotName
-
+```
 ### 4️⃣ Run the Bot
 ```bash
 python bot/main.py
